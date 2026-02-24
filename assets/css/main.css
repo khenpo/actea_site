@@ -2697,6 +2697,7 @@ input, select, textarea {
 			header.major p {
 				font-size: 1em;
 				letter-spacing: 0;
+				text-align: justify;
 			}
 
 				header.major p br {
