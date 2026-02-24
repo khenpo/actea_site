@@ -216,6 +216,7 @@ input, select, textarea {
 
 	h3 {
 		font-size: 1.25em;
+		text-align: center;
 	}
 
 	h4 {
@@ -2434,6 +2435,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			text-align: left;
 		}
 
 		ul.alt {
@@ -2661,7 +2663,7 @@ input, select, textarea {
 		header.major p {
 			font-size: 1.1em;
 			letter-spacing: -0.025em;
-			text-align: justify;
+			text-align: center;
 		}
 
 		header.major li {
@@ -2832,6 +2834,7 @@ input, select, textarea {
 
 			.features li > :last-child {
 				margin-bottom: 0;
+				text-align: center;
 			}
 
 		@media screen and (max-width: 980px) {
